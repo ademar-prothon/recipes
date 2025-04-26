@@ -1,1 +1,20 @@
 site_name: Adémar's recipes
+
+theme:
+  name: simple-blog
+  icon:
+    repo: fontawesome/brands/github
+    logo: fontawesome/solid/bowl-rice
+  features:
+    - navigation.tracking
+    #  - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Asian:
+      - Easy Dumplings: asian/potstickers.md
+  - Desert:
+      - Carrot Cake: desert/carrot-cake.md

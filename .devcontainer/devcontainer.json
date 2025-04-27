@@ -6,6 +6,7 @@
     // "ghcr.io/devcontainers-contrib/features/homebrew-package:1": {
     //   "package": "nicholaswilde/tap/cook-docs"
     // },
+    "ghcr.io/devcontainers-extra/features/mkdocs:2": {}
   },
   "customizations": {
     "vscode": {

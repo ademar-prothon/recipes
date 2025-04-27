@@ -21,7 +21,7 @@ jobs:
           python-version: 3.x
 
       - name: Install dependencies
-        run: pip install mkdocs mkdocs-simple-blog
+        run: pip install mkdocs mkdocs-simple-blog pymdown-extensions
 
       - name: Deploy
         run: mkdocs gh-deploy --force

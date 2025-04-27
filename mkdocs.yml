@@ -14,10 +14,18 @@ theme:
 
 nav:
   - Home: index.md
+  - African:
+      - Bissap: african/bissap.md
+  - American: 
+      - Pulled Pork: american/pulled-pork.md
   - Asian:
       - Easy Dumplings: asian/potstickers.md
+      - Yu Xian Eggplant: asian/eggplants.md
   - Desert:
       - Carrot Cake: desert/carrot-cake.md
+      - Cookies: desert/cookies.md
+  - Italian:
+      - Pizza dough: italian/pizza.md
 
 markdown_extensions:
   - pymdownx.emoji:

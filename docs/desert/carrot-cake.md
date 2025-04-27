@@ -1,5 +1,7 @@
 # carrot-cake
 
+![carrot-cake](./carrot-cake.jpg)
+
 | :timer_clock: Total Time |
 |:-----------------------: |
 | 24 minutes |
